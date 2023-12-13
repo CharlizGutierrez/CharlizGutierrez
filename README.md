@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Charliz Gutierrez, a passionate coder with a knack for database management. I enjoy tackling complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I've been expanding my skills ever since.
+Greetings! I'm Charliz Gutierrez, a dedicated coding enthusiast with a penchant for effective database management. I thrive on the challenges of solving intricate problems and take joy in creating elegant solutions. My journey in technology commenced with the BS Information Technology program, where I discovered my passion for crafting reliable and efficient software.
 
 ## Education
 
