@@ -1,14 +1,5 @@
-# Charliz Gutierrez
 
-## About Me
 
-Greetings! I'm Charliz Gutierrez, a dedicated coding enthusiast with a penchant for effective database management. I thrive on the challenges of solving intricate problems and take joy in creating elegant solutions. My journey in technology commenced with the BS Information Technology program, where I discovered my passion for crafting reliable and efficient software.
-
-## Education
-
-- **BS Information Technology**
-  New Era University
-  2021-Present
 
 ## Certification
 
@@ -23,10 +14,3 @@ Greetings! I'm Charliz Gutierrez, a dedicated coding enthusiast with a penchant 
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
-## Contact
-
-Feel free to reach out to me:
-
-- **Email:** charlizcgutierrez@gmail.com
-
-Let's connect and collaborate on exciting projects!
